@@ -213,7 +213,7 @@ export default function Home() {
             <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-gradient-to-br from-emerald-500 via-teal-500 to-cyan-500 mb-6 shadow-lg shadow-emerald-500/30">
               <Zap className="w-10 h-10 text-white" />
             </div>
-            <h2 className="text-3xl font-bold text-white mb-4">Counter DApp</h2>
+            <h2 className="text-3xl font-bold text-white mb-4">Counter</h2>
             <p className="text-white/70 text-lg">
               Veuillez connecter votre wallet pour interagir avec le compteur
             </p>
